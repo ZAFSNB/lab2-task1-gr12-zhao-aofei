@@ -4,8 +4,9 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Usage
 
-Please, edit README and add some details, as instance **{zhao aofei gr12}**.
+**{zhao aofei gr12}**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+*[GITHUB](https://github.com/ZAFSNB/lab2-task1-gr12-zhao-aofei/blob/d1146f7be98b4823185cbb38e1918585a41ce6b8/src/main.c)
+
